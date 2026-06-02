@@ -1,1 +1,10 @@
 # Task2-EDA
+Dataset contains 775 cleaned records.
+No missing values exist after preprocessing.
+Survival rate is approximately 34%.
+Female passengers had a higher chance of survival.
+First-class passengers survived more often than third-class passengers.
+Fare is positively related to survival.
+SibSp and Parch show skewed distributions.
+Feature scaling successfully normalized Age and Fare.
+Correlation analysis shows Passenger Class, Fare, and Gender significantly influence survival.
